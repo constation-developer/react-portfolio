@@ -37,13 +37,13 @@ function Intro() {
                     <button className="button i-button">İletisim</button>
                 </Link>
                 <div className="i-icons">
-                    <a href="https://github.com/constation-developer" target="_blank">
+                    <a href="https://github.com/constation-developer">
                         <img src={Github} alt=""/>
                     </a>
-                    <a href="https://www.linkedin.com/in/kadir-demirel-b2b0bb1bb/" target="_blank">
+                    <a href="https://www.linkedin.com/in/kadir-demirel-b2b0bb1bb/">
                         <img src={LinkedIn} alt="" />
                     </a>
-                    <a href="https://www.instagram.com/kadir.demirel7/?__coig_restricted=1" target="_blank">
+                    <a href="https://www.instagram.com/kadir.demirel7/?__coig_restricted=1">
                         <img src={Instagram} alt="" />
                     </a>
                 </div>

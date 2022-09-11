@@ -12,13 +12,13 @@ function Footer() {
             <div className="f-content">
                 <span>constation.developer@gmail.com</span>
                 <div className="f-icons">
-                    <a href="https://www.instagram.com/kadir.demirel7/?__coig_restricted=1" target="_blank">
+                    <a href="https://www.instagram.com/kadir.demirel7/?__coig_restricted=1">
                         <Insta color='white' size='3rem' />
                     </a>
-                    <a href="https://www.linkedin.com/in/kadir-demirel-b2b0bb1bb/" target="_blank">
+                    <a href="https://www.linkedin.com/in/kadir-demirel-b2b0bb1bb/">
                         <Linkedin color='white' size='3rem' />
                     </a>
-                    <a href="https://github.com/constation-developer" target="_blank">
+                    <a href="https://github.com/constation-developer">
                         <Github color='white' size='3rem' />
                     </a>
                 </div>
