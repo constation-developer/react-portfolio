@@ -2,7 +2,6 @@ import React from "react";
 import Toggle from "../Toggle/Toggle";
 import './Navbar.css';
 import { Link } from "react-scroll";
-import Logo from '../../img/developer-constantin.svg';
 import { useContext } from "react";
 import { themeContext } from "../../Context";
 
