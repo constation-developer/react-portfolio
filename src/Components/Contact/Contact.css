@@ -84,7 +84,7 @@ textarea {
         gap: 2rem;
         padding: 0;
         text-align: center;
-        margin-bottom: 6rem;
+        margin-bottom: 0;
     }
 
     .c-right .user {

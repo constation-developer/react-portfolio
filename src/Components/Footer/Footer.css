@@ -6,6 +6,10 @@
     margin-top: -10rem;
 }
 
+.footer-img {
+    width: 100%;
+}
+
 .f-content {
     position: absolute;
     display: flex;
@@ -28,6 +32,16 @@
 }
 
 @media screen and (max-width: 480px) {
+    .footer {
+        margin: 3.5em -1rem -10px;
+        
+    }
+
+    .footer-img {
+        width: 100%;
+        height: 250px;
+    }
+
     .f-content {
         margin-top: 4rem;
         gap: 0;
