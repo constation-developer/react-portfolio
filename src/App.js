@@ -7,7 +7,6 @@ import Intro from './Components/Intro/Intro';
 import Navbar from './Components/Navbar/Navbar';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Services from './Components/Services/Services';
-import Works from './Components/Works/Works';
 import {themeContext} from './Context';
 
 function App() {
@@ -24,7 +23,6 @@ function App() {
       <Intro />
       <Services />
       <Experience />
-      {/* <Works /> */}
       <Portfolio />
       <Contact />
       <Footer />
